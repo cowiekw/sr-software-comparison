@@ -1,0 +1,12 @@
+Requirements
+pip or conda
+jupyter notebook
+openpyxl
+pandas
+matplotlib
+seaborn
+
+To set up jupyter notebook:
+$ python3 -m pip install --upgrade pip
+$ python3 -m pip install jupyter
+$ jupyter notebook
