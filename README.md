@@ -1,5 +1,5 @@
 # sr-software-comparison
-This project compares features among software that supports systematic reviews of biomedical literature.
+This project compares features among software that supports systematic reviews of biomedical literature. Software was assessed in July 2021.
 
 # Plotting Features of Systematic Review Software
 **Objective:** Make charts comparing the presence of features in top systematic review softwares
@@ -15,4 +15,4 @@ This program divides features based on pre-specificed feature classes. It compar
 Generates charts using seaborn and exports the captions of each figure.
 
 # helpers.py
-includes functions for reading SR data sheet, summarizing the data, and limitating the dataframe to the top performing software.
+Includes functions for reading the SR data sheet, summarizing the data, and limiting the dataframe to the top performing software.
