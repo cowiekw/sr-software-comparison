@@ -1,1 +1,0 @@
-fig 8. Percent of Features for each SR Software (with a min of 5 non-NA features)
