@@ -1,6 +1,6 @@
-fig 2. Top ten systematic review softwares that support retrieval features
-fig 3. Top ten systematic review softwares that support appraisal features
-fig 4. Top ten systematic review softwares that support extraction features
-fig 5. Top ten systematic review softwares that support output features
-fig 6. Top ten systematic review softwares that support admin features
-fig 7. Top ten systematic review softwares that support access features
+fig 2. Top ten systematic review softwares that support retrieval features.
+fig 3. Top ten systematic review softwares that support appraisal features.
+fig 4. Top ten systematic review softwares that support extraction features.
+fig 5. Top ten systematic review softwares that support output features.
+fig 6. Top ten systematic review softwares that support admin features.
+fig 7. Top ten systematic review softwares that support access features.

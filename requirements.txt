@@ -5,6 +5,9 @@ openpyxl
 pandas
 matplotlib
 seaborn
+gspread
+oauth2client
+df2gspread
 
 To set up jupyter notebook:
 $ python3 -m pip install --upgrade pip
