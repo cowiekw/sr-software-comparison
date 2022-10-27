@@ -1,0 +1,25 @@
+name,type,field,search,import,expertaddition,fulltextpdf,autofulltext,tiabscreen,distinctscreen,dualscreen,wordhighlight,screeninautomation,deduplication,tag,extract,dualextract,riskofbias,flowdiagram,writing,citationmanager,visualization,export,protocol,userroles,monitor,comments,training,support,free,living,publicoutputs,multipleusers
+Abstrackr,screening,healthcare,0,1,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,1
+Cadima,full process,multidiscipline,0,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,0,0,1,1,1,0,0,1,1,1,0,1,1
+Colandr,"search, screening, and extraction",multidiscipline,1,1,1,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,1,1,1,0,0,1,0,1,0,0,1
+COVID-NMA,visualization,healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,1,0
+Covidence,full process,healthcare,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,0,0,0,1
+Data Abstraction Assistant,extraction,healthcare,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1
+DistillerSR,full process,healthcare,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1
+EPPI-Reviewer Web,full process,healthcare,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,0,1,1,1
+Giotto Compliance,full process,healthcare,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1
+JBI SUMARI,full process,multidiscipline,1,1,1,0,0,1,1,1,1,0,0,0,1,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1
+LitStream,full process,multidiscipline,0,1,1,0,0,1,1,1,1,1,0,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Nested Knowledge,full process,healthcare,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PICOPortal,full process,healthcare,0,1,0,1,0,1,1,1,1,1,1,0,1,1,0,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1
+Rayyan,screening,healthcare,1,1,0,1,0,1,0,1,1,1,1,1,0,0,1,0,0,0,1,1,1,1,1,0,1,0,1,0,0,1
+Revman Web,full process,healthcare,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1
+RobotAnalyst,screening,healthcare,0,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,0,0
+RobotReviewer,extraction,healthcare,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0
+SR-Accelerator,search and screening,multidiscipline,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+SRDB.PRO,full process,healthcare,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,1,1,0,0,1,1,1,1,1,1,1,0,0,0,1
+SRDR,extraction,healthcare,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1,1
+SRDR+,full process,healthcare,0,1,1,0,0,1,0,0,1,0,1,0,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+SWIFT-Active Screener,screening,multidiscipline,0,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0,0,1
+SyRF,full process,healthcare,0,1,0,0,0,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,1
+SysRev,full process,multidiscipline,1,1,1,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1

@@ -1,0 +1,25 @@
+name,number_of_features,total_features,percent_of_features
+Giotto Compliance,27,30,0.9
+Nested Knowledge,27,30,0.9
+DistillerSR,26,30,0.87
+EPPI-Reviewer Web,25,30,0.83
+LitStream,23,30,0.77
+SRDB.PRO,21,30,0.7
+JBI SUMARI,21,30,0.7
+SysRev,20,30,0.67
+Covidence,20,30,0.67
+Cadima,19,30,0.63
+SRDR+,19,30,0.63
+Rayyan,18,30,0.6
+PICOPortal,18,30,0.6
+Colandr,18,30,0.6
+Revman Web,17,30,0.57
+SWIFT-Active Screener,16,30,0.53
+Abstrackr,15,30,0.5
+RobotAnalyst,14,30,0.47
+SRDR,14,30,0.47
+SyRF,12,30,0.4
+Data Abstraction Assistant,10,30,0.33
+SR-Accelerator,9,30,0.3
+RobotReviewer,8,30,0.27
+COVID-NMA,6,30,0.2
